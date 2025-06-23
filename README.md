@@ -5,6 +5,6 @@
 
 7805 Voltage Regulator IC
 
-Input Capacitor: 10 µF 
+Input Capacitor: 100 µF 
 
 Output Capacitor: 10µF 
